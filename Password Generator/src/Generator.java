@@ -65,7 +65,7 @@ public class Generator {
 
     private void printUsefulInfo() {
         System.out.println();
-        System.out.println("Use a minimum password length of 8 or more characters if permitted");
+        System.out.println("Use the a minimum password length of 8 or more characters if permitted");
         System.out.println("Include lowercase and uppercase alphabetic characters, numbers and symbols if permitted");
         System.out.println("Generate passwords randomly where feasible");
         System.out.println("Avoid using the same password twice (e.g., across multiple user accounts and/or software systems)");
